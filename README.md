@@ -1,4 +1,4 @@
-# omnistack-backend
+# Devradar backend
 
 Introduction
 -------------
